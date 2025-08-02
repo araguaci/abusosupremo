@@ -30,7 +30,8 @@ export const censorshipData: CensorshipData = {
       "type": "judicial",
       "target": "bolsonaristas",
       "title": "Bloqueio de Perfis Bolsonaristas",
-      "year": 2020
+      "year": 2020,
+      "source": "https://x.com/AlexandreFiles"
     },
     {
       "date": "Abril",
@@ -45,7 +46,7 @@ export const censorshipData: CensorshipData = {
       "description": "Censura prévia a reportagem da RBS TV sobre desvio de auxílio (juiz Daniel da Silva Luz); impacto em conteúdos críticos.",
       "type": "judicial",
       "target": "mídia",
-      "title": "Censura à RBS TV",
+      "title": "Censura à RBS TV (3)",
       "year": 2020
     },
     {
@@ -62,7 +63,8 @@ export const censorshipData: CensorshipData = {
       "type": "judicial",
       "target": "plataformas",
       "title": "Bloqueio de contas de bolsonaristas em redes sociais",
-      "year": 2020
+      "year": 2020,
+      "source": "https://x.com/AlexandreFiles"
     },
     {
       "date": "July",
@@ -70,7 +72,8 @@ export const censorshipData: CensorshipData = {
       "type": "judicial",
       "target": "plataformas",
       "title": "Bloqueio de Perfis Bolsonaristas",
-      "year": 2020
+      "year": 2020,
+      "source": "https://x.com/AlexandreFiles"
     },
     {
       "date": "May",
@@ -112,7 +115,8 @@ export const censorshipData: CensorshipData = {
       "type": "judicial",
       "target": "jornalistas_de_direita",
       "title": "Bloqueio de Contas de Allan dos Santos",
-      "year": 2021
+      "year": 2021,
+      "source": "https://x.com/AlexandreFiles"
     }
   ],
   "2022": [

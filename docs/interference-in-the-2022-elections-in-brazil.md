@@ -1,14 +1,11 @@
-# Thread by @pamcosta21 on Thread Reader App
-
-Source: [https://threadreaderapp.com/thread/1777540268792693217.html](https://threadreaderapp.com/thread/1777540268792693217.html)
-
-[![Pâm 🌸 Profile picture](https://pbs.twimg.com/profile_images/1754705972847587328/YrXQBZJO_bigger.jpg)](https://threadreaderapp.com/user/pamcosta21)
-
-Pâm 🌸 Profile picture
-
 In April 2022, Scott Hamilton, a former American diplomat, wrote an article for the newspaper O Globo. Printed edition newspaper of Grupo Globo de Comunicação.
 
 The theme of this article: “Defending Democracy”
+
+Source: [https://threadreaderapp.com/thread/1777540268792693217.html](https://threadreaderapp.com/thread/1777540268792693217.html)
+
+[![Pâm 🌸 Profile picture](https://pbs.twimg.com/profile_images/1911137564422987777/iLYpPzaH_bigger.jpg)](https://threadreaderapp.com/user/pamcosta21)
+
 
 Follow the thread and understand how this article is related to interference in the 2022 elections in Brazil. 🧶__
 

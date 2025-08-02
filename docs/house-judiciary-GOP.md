@@ -1,10 +1,6 @@
 
-![House Judiciary GOP 🇺🇸](https://pbs.twimg.com/profile_images/1878890078493155328/F_eZe_-N_200x200.jpg)
 
-(https://x.com/JudiciaryGOP "House Judiciary GOP 🇺🇸🇺🇸🇺🇸") 
-
-@JudiciaryGOP
-
+[@JudiciaryGOP]((https://x.com/JudiciaryGOP "House Judiciary GOP 🇺🇸🇺🇸🇺🇸") )
 
 We subpoenaed Alphabet, Amazon, Apple, Meta, Microsoft, Rumble, TikTok and X. Why? Foreign governments are trying to silence American speech—in the United States. We have a problem with that. 
 

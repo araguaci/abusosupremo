@@ -168,6 +168,7 @@ Os casos de censura e prisões políticas no Brasil entre 2022 e 2025 levantam d
 
 ### Referências
 
+- [HomeroMarchese](https://x.com/HomeroMarchese/status/1951588081275990347)
 - [AlexandreFiles](https://x.com/AlexandreFiles)
 - [AdvogadosOacb](https://x.com/AdvogadosOacb)
 - [ludmilagrilo](https://x.com/ludmilagrilo)
