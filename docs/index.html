@@ -20,6 +20,34 @@
 </head>
 <body>
   <div id="app"></div>
+  <footer style="position: fixed; bottom: 0; width: 100%; text-align: center; background: #f8f8f8; padding: 10px;">
+    <div className="flex justify-center items-center">          
+          <a href="https://stop-war-for-ever.vercel.app" className='display-inline-block m-2'>
+            <img
+              src="https://img.shields.io/badge/STOP%20WAR%20FOR%20EVER-6d3d9d?logo=alchemy&logoColor=00aced&style=flat"
+              alt="STOP-WAR-FOR-EVER"
+            />
+          </a>
+          <a href="https://abusosupremo.vercel.app" className='display-inline-block m-2'>
+            <img
+              src="https://img.shields.io/badge/ABUSO%20SUPREMO-351d1d?logo=msi&logoColor=6bc175&style=flat"
+              alt="ABUSO SUPREMO"
+            />
+          </a>
+          <a href="https://futuroroubado.vercel.app" className='display-inline-block m-2'>
+            <img
+              src="https://img.shields.io/badge/FUTURO%20ROUBADO-417547?logo=redragon&logoColor=efefef&style=flat"
+              alt="FUTURO ROUBADO"
+            />
+          </a>
+          <a href="https://abusofederal.vercel.app" className='display-inline-block m-2'>
+            <img
+              src="https://img.shields.io/badge/ABUSO%20FEDERAL-00295b?logo=diagramsdotnet&logoColor=bf2b2b&style=flat"
+              alt="ABUSO FEDERAL"
+            />
+          </a>
+      </div>
+  </footer>
   <script>
     let svgCounter = 0;
     window.$docsify = {      
@@ -51,6 +79,10 @@
             return this.origin.code.apply(this, arguments);
           },
         },
+      },
+      footer: {
+        copy: 'Outros Projetos',
+        pre: true  // Preserva formatação
       }
     }
   </script>
@@ -61,4 +93,5 @@
   </script></body>
   <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@latest/dist/index.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@alertbox/docsify-footer@latest/dist/docsify-footer.min.js"></script>
 </html>
