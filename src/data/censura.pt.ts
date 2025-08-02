@@ -351,15 +351,16 @@ export const censorshipData: CensorshipData = {
   ],
   "2025": [
     {
-      "date": "Janeiro",
+      "date": "Jan",
       "description": "Bloqueio de perfis da Revista Timeline (Lacombe e Santos) no X, Instagram e YouTube (STF/Moraes); alegação de 'fake news' e milícias digitais; site permanece no ar, mas transmissão ao vivo interrompida; críticas por censura prévia sem defesa.",
       "type": "judicial",
       "target": "jornalistas_de_direita",
       "title": "Bloqueio de Perfis da Revista Timeline",
-      "year": 2025
+      "year": 2025,
+      "source": "https://www.perplexity.ai/search/bloqueio-de-perfis-da-revista-5RbyzUEoQhi9KjtdDDHh7g#0"
     },
     {
-      "date": "Mai–Junho",
+      "date": "May",
       "description": "Decisão do STF obriga redes a removerem conteúdos 'antidemocráticos' sem ordem prévia (alteração ao Marco Civil); responsabilização de plataformas; impacto em cristãos e conservadores.",
       "type": "judicial",
       "target": "plataformas",
@@ -367,7 +368,7 @@ export const censorshipData: CensorshipData = {
       "year": 2025
     },
     {
-      "date": "Julho",
+      "date": "Jul",
       "description": "Processos nos EUA contra Moraes por censura extraterritorial (Trump Media e Rumble); críticas internacionais por abusos.",
       "type": "judicial",
       "target": "geral",
@@ -375,7 +376,7 @@ export const censorshipData: CensorshipData = {
       "year": 2025
     },
     {
-      "date": "February",
+      "date": "Feb",
       "description": "Moraes liberou contas bloqueadas de Monark em redes sociais.",
       "type": "judicial",
       "target": "plataformas",
@@ -383,7 +384,7 @@ export const censorshipData: CensorshipData = {
       "year": 2025
     },
     {
-      "date": "February",
+      "date": "Feb",
       "description": "Alexandre de Moraes desativou sua própria conta no X.",
       "type": "judicial",
       "target": "plataformas",
@@ -391,7 +392,7 @@ export const censorshipData: CensorshipData = {
       "year": 2025
     },
     {
-      "date": "Junho",
+      "date": "Jun",
       "description": "Meta bloqueou perfis de Zambelli nas redes por decisão judicial.",
       "type": "judicial",
       "target": "plataformas",
@@ -399,7 +400,7 @@ export const censorshipData: CensorshipData = {
       "year": 2025
     },
     {
-      "date": "July",
+      "date": "Jul",
       "description": "Conta na Rumble bloqueada por Moraes, alegando não incitava violência.",
       "type": "judicial",
       "target": "plataformas",
@@ -407,7 +408,7 @@ export const censorshipData: CensorshipData = {
       "year": 2025
     },
     {
-      "date": "August",
+      "date": "Aug",
       "description": "US Treasury sanctions blocked accounts of Alexandre de Moraes.",
       "type": "judicial",
       "target": "plataformas",
@@ -415,7 +416,7 @@ export const censorshipData: CensorshipData = {
       "year": 2025
     },
     {
-      "date": "February",
+      "date": "Feb",
       "description": "Moraes determinou bloqueio da rede social Rumble no Brasil por conteúdo de Allan dos Santos.",
       "type": "judicial",
       "target": "plataformas",
@@ -423,7 +424,7 @@ export const censorshipData: CensorshipData = {
       "year": 2025
     },
     {
-      "date": "Junho",
+      "date": "Jun",
       "description": "STF formou maioria por responsabilização de big techs por conteúdos, permitindo remoção sem ordem judicial em casos específicos.",
       "type": "judicial",
       "target": "plataformas",
