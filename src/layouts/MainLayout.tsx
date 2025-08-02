@@ -2,6 +2,7 @@ import React from 'react';
 import { Outlet } from 'react-router-dom';
 import Header from '@/components/Header';
 import Badges from '@/components/Badges';
+import Footer from '@/components/Footer';
 import { Toaster } from '@/components/ui/sonner';
 import BackToTopButton from '@/components/BackToTopButton';
 
@@ -12,6 +13,7 @@ const MainLayout: React.FC = () => {
       <main className="flex-grow">
         <Outlet />
       </main>
+      <Footer />
       <Badges />
       <Toaster />
       <BackToTopButton />

@@ -8,7 +8,10 @@ const Footer: React.FC = () => {
     <footer className="bg-card text-card-foreground py-8 mt-auto">
       <div className="container mx-auto px-4 text-center">
         <p className="text-sm text-muted-foreground">
-          &copy; {new Date().getFullYear()} {t('footer_copyright')}
+          &copy; 
+          <a href="https://abusosupremo.netlify.app/#/" className='display-inline-block m-2'>
+            {t('source')}
+          </a>
         </p>
       </div>
     </footer>
