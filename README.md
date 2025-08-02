@@ -88,6 +88,34 @@ Aplicação web interativa (usando tecnologias como React para frontend, Node.js
 ## Conteúdo Baseado em Dados Fornecidos:
 
 Períodos Históricos: Inclua eventos desde o período colonial (1500–1822: proibições pela Inquisição), imperial (1822–1889: repressão a movimentos), República Velha (1889–1930: leis de imprensa), Era Vargas (1930–1945: DIP e censura intensa), Ditadura Militar (1964–1985: AI-5 e repressão), e pós-1985 (democracia com censuras judiciais).
+
+```mermaid
+graph TD
+    A[Imprensa Esquerdista] --> B[Censura a Conservadores]
+    A --> C[Perseguição Política]
+    A --> D[Assassinato de Reputações]
+    
+    B --> E[Folha de S.Paulo]
+    B --> F[O Globo]
+    B --> G[Estadão]
+    B --> H[UOL]
+    
+    C --> I[Paulo Henrique Amorim - Conversa Afiada]
+    C --> J[Rachel Sheherazade - SBT]
+    C --> K[Jornalistas Lava Jato/PT]
+    
+    D --> L[Máquina Petista]
+    D --> M[Viés contra Bolsonaro]
+    
+    E --> M
+    F --> M
+    G --> M
+    H --> M
+    I --> L
+    J --> L
+    K --> L
+```
+
 Foco em Eventos Recentes (2019–2025): Agrupe ações judiciais do STF/TSE (principalmente Alexandre de Moraes) contra conservadores nas redes:
   - 2019: Inquérito das Fake News; censura à Crusoé e O Antagonista.
   - 2020: Banimento do Terça Livre; autoexílio de Allan dos Santos.
