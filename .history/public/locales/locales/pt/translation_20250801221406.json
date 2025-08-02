@@ -1,0 +1,50 @@
+{
+  "loading": "Carregando...",
+  "filter_by_year": "Filtrar por Ano",
+  "all_years": "Todos os Anos",
+  "filter_by_type": "Filtrar por Tipo",
+  "all_types": "Todos os Tipos",
+  "filter_by_target": "Filtrar por Alvo",
+  "all_targets": "Todos os Alvos",
+  "search_timeline": "Pesquisar na linha do tempo...",
+  "clear_filters": "Limpar Filtros",
+  "no_events_found": "Nenhum evento encontrado para os filtros selecionados.",
+  "back_to_top": "Voltar ao Topo",
+  "target_conservadores": "Conservadores",
+  "target_jornalistas": "Jornalistas",
+  "target_bolsonaristas": "Apoiadores de Bolsonaro",
+  "target_plataformas": "Plataformas",
+  "target_documentários": "Documentários",
+  "target_mídia": "Mídia",
+  "target_geral": "Geral",
+  "source": "Fonte",
+  "copy_details": "Copiar Detalhes",
+  "search_perplexity": "Pesquisar no Perplexity",
+  "educational_resources": "Recursos Adicionais",
+  "censorship_timeline_title": "Censura no Brasil",
+  "censorship_timeline_description": "Explore os principais eventos de censura no Brasil, desde 2019. Filtre por ano, tipo e alvo para entender o cenário da liberdade de expressão.",
+  "events_by_year_chart_title": "Casos de Censura por Ano",
+  "censorship_impact_p1": {
+    "title": "Twitter Files Brazil: Revelações Independentes sobre a Censura Online",
+    "url": "https://www.twitterfilesbrazil.com/pt/"
+  },
+  "censorship_impact_p2": {
+    "title": "Twitter Files Brasil 2 - O influenciador usa de sua influência",
+    "url": "https://www.twitterfilesbrazil.com/pt/twitter-files-brasil-2"
+  },
+  "censorship_impact_p3": {
+    "title": "Expondo a Falta de Transparência: Revelação de Abusos de Alexandre de Moraes",
+    "url": "https://www.twitterfilesbrazil.com/pt/alexandre-files"
+  },
+  "censorship_impact_p4": {
+    "title": "Relatório sobre a Política de Censura no Brasil e a Resposta dos EUA",
+    "url": "https://www.twitterfilesbrazil.com/pt/desdobramentos/relatorio-sobre-a-politica-de-censura-no-brasil-e-a-resposta-dos-eua"
+  },
+  "type_judicial": "Judicial",
+  "type_eleitoral": "Eleitoral",
+  "type_midiática": "Midiática",
+  "nav_ofac": "OFAC",
+  "nav_gallery": "Galeria",
+  "gallery_page_title": "Galeria de Imagens e Vídeos",
+  "footer_copyright": "Todos os direitos reservados."
+}

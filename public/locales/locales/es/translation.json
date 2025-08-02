@@ -1,0 +1,50 @@
+{
+  "loading": "Cargando...",
+  "filter_by_year": "Filtrar por Año",
+  "all_years": "Todos los Años",
+  "filter_by_type": "Filtrar por Tipo",
+  "all_types": "Todos los Tipos",
+  "filter_by_target": "Filtrar por Objetivo",
+  "all_targets": "Todos los Objetivos",
+  "search_timeline": "Buscar en la línea de tiempo...",
+  "clear_filters": "Limpiar Filtros",
+  "no_events_found": "No se encontraron eventos para los filtros seleccionados.",
+  "back_to_top": "Volver Arriba",
+  "target_conservadores": "Conservadores",
+  "target_jornalistas": "Periodistas",
+  "target_bolsonaristas": "Partidarios de Bolsonaro",
+  "target_plataformas": "Plataformas",
+  "target_documentários": "Documentales",
+  "target_mídia": "Medios",
+  "target_geral": "General",
+  "source": "Fuente",
+  "copy_details": "Copiar Detalles",
+  "search_perplexity": "Buscar en Perplexity",
+  "educational_resources": "Recursos Educativos",
+  "censorship_timeline_title": "Línea de Tiempo de la Censura en Brasil",
+  "censorship_timeline_description": "Explore los principales eventos de censura en Brasil desde 2019. Filtre por año, tipo y objetivo para comprender el panorama de la libertad de expresión.",
+  "events_by_year_chart_title": "Casos de Censura por Año",
+  "censorship_impact_p1": {
+    "title": "Twitter Files Brasil: Revelaciones Independientes sobre la Censura en Línea",
+    "url": "https://www.twitterfilesbrazil.com/pt/"
+  },
+  "censorship_impact_p2": {
+    "title": "Twitter Files Brasil 2 - El influencer usa su influencia",
+    "url": "https://www.twitterfilesbrazil.com/pt/twitter-files-brasil-2"
+  },
+  "censorship_impact_p3": {
+    "title": "Exponiendo la Falta de Transparencia: Revelación de Abusos de Alexandre de Moraes",
+    "url": "https://www.twitterfilesbrazil.com/pt/alexandre-files"
+  },
+  "censorship_impact_p4": {
+    "title": "Informe sobre la Política de Censura de Brasil y la Respuesta de EE. UU.",
+    "url": "https://www.twitterfilesbrazil.com/pt/desdobramentos/relatorio-sobre-a-politica-de-censura-no-brasil-e-la-respuesta-de-los-eeuu"
+  },
+  "type_judicial": "Judicial",
+  "type_eleitoral": "Electoral",
+  "type_midiática": "Mediática",
+  "nav_ofac": "OFAC",
+  "nav_gallery": "Galería",
+  "gallery_page_title": "Galería de Imágenes y Videos",
+  "footer_copyright": "Todos los derechos reservados."
+}

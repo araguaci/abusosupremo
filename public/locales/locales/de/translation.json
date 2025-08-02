@@ -1,0 +1,50 @@
+{
+  "loading": "Laden...",
+  "filter_by_year": "Nach Jahr filtern",
+  "all_years": "Alle Jahre",
+  "filter_by_type": "Nach Typ filtern",
+  "all_types": "Alle Typen",
+  "filter_by_target": "Nach Ziel filtern",
+  "all_targets": "Alle Ziele",
+  "search_timeline": "Zeitleiste durchsuchen...",
+  "clear_filters": "Filter löschen",
+  "no_events_found": "Keine Ereignisse für die ausgewählten Filter gefunden.",
+  "back_to_top": "Nach oben",
+  "target_conservadores": "Konservative",
+  "target_jornalistas": "Journalisten",
+  "target_bolsonaristas": "Bolsonaro-Anhänger",
+  "target_plataformas": "Plattformen",
+  "target_documentários": "Dokumentarfilme",
+  "target_mídia": "Medien",
+  "target_geral": "Allgemein",
+  "source": "Quelle",
+  "copy_details": "Details kopieren",
+  "search_perplexity": "Auf Perplexity suchen",
+  "educational_resources": "Bildungsressourcen",
+  "censorship_timeline_title": "Zensur-Zeitleiste in Brasilien",
+  "censorship_timeline_description": "Erkunden Sie die wichtigsten Zensurereignisse in Brasilien seit 2019. Filtern Sie nach Jahr, Typ und Ziel, um die Landschaft der Meinungsfreiheit zu verstehen.",
+  "events_by_year_chart_title": "Zensurfälle pro Jahr",
+  "censorship_impact_p1": {
+    "title": "Twitter Files Brasilien: Unabhängige Enthüllungen über Online-Zensur",
+    "url": "https://www.twitterfilesbrazil.com/pt/"
+  },
+  "censorship_impact_p2": {
+    "title": "Twitter Files Brasilien 2 - Der Influencer nutzt seinen Einfluss",
+    "url": "https://www.twitterfilesbrazil.com/pt/twitter-files-brasil-2"
+  },
+  "censorship_impact_p3": {
+    "title": "Aufdeckung mangelnder Transparenz: Enthüllung der Missbräuche von Alexandre de Moraes",
+    "url": "https://www.twitterfilesbrazil.com/pt/alexandre-files"
+  },
+  "censorship_impact_p4": {
+    "title": "Bericht über Brasiliens Zensurpolitik und die Reaktion der USA",
+    "url": "https://www.twitterfilesbrazil.com/pt/desdobramentos/relatorio-sobre-a-politik-de-zensur-in-brasilien-und-die-antwort-der-usa"
+  },
+  "type_judicial": "Judicial",
+  "type_eleitoral": "Wahl",
+  "type_midiática": "Medien",
+  "nav_ofac": "OFAC",
+  "nav_gallery": "Galerie",
+  "gallery_page_title": "Bilder- und Videogalerie",
+  "footer_copyright": "Alle Rechte vorbehalten."
+}
