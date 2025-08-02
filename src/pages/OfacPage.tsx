@@ -6,7 +6,7 @@ const OfacPage: React.FC = () => {
     <MarkdownPageLayout
       titleKey="ofac_page_title"
       descriptionKey="ofac_page_description"
-      contentPath="public/locales/{lang}/ofac.md"
+      contentPath="/locales/{lang}/ofac.md"
       backLink="/"
       backLinkTextKey="back_to_timeline"
     />

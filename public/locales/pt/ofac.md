@@ -93,3 +93,4 @@ A aplicação da Lei Magnitsky reflete uma escalada diplomática, iniciada por p
 - [Annual Threat Assessment (PDF)](https://www.dni.gov/files/ODNI/documents/assessments/ATA-2025-Unclassified-Report.pdf)
 - [Trump enacts 50pc tariffs on Brazil imports](https://www.argusmedia.com/en/news-and-insights/latest-market-news/2715953-trump-enacts-50pc-tariffs-on-brazil-imports-update)
 - [2025 Worldwide Threat Assessment (PDF)](https://armedservices.house.gov/uploadedfiles/2025_dia_statement_for_the_record.pdf)
+  
