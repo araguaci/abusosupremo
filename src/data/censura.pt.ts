@@ -341,6 +341,15 @@ export const censorshipData: CensorshipData = {
       "year": 2024
     }, 
     {
+      "date": "September",
+      "description": "O Supremo Tribunal Federal (STF) impediu veículos da imprensa, como o UOL, de auditar o sistema de distribuição de processos do tribunal. Inicialmente, após quatro anos de pedidos baseados na Lei de Acesso à Informação (LAI)",
+      "type": "judicial",
+      "target": "mídia",
+      "title": "STF impede UOL de auditar sistema de distribuição de processos do tribunal",
+      "year": 2024,
+      "source": "https://noticias.uol.com.br/politica/ultimas-noticias/2024/09/24/stf-roberto-barroso-cancela-visita-uol-codigo-fonte-distribuicao-processos.htm?cmpid=copiaecola"
+    },
+    {
       "date": "November",
       "description": "STF julgou constitucionalidade de remoção de conteúdos sem ordem judicial em casos de ofensas.",
       "type": "judicial",
