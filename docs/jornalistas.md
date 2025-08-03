@@ -1,8 +1,10 @@
 # Jornalistas Acusados de Incentivar Censura, Perseguição Online e Assassinato de Reputação Contra Conservadores no Brasil (2018-2022)
 
-## Introdução
-
 Durante as eleições presidenciais de 2018 e 2022 no Brasil, o cenário político polarizado levou a acusações contra jornalistas, principalmente de veículos de mídia tradicionais, por supostamente incentivar censura através de apoio a regulação de redes sociais, promover perseguição online via campanhas de desinformação e praticar assassinato de reputação com matérias distorcidas contra figuras conservadoras, como apoiadores de Jair Bolsonaro. Essas alegações provêm majoritariamente de fontes conservadoras, que veem tais ações como viés esquerdista. Fontes de esquerda, por outro lado, argumentam que as críticas eram jornalismo investigativo contra corrupção e autoritarismo. A seguir, relacionamos ao menos 20 jornalistas acusados, com base em relatórios governamentais, manifestos e análises de mídia, incluindo conexões com veículos e exemplos de acusações.
+
+<div style="text-align: center;">
+<img src="./vera-magalhaes.jpeg" alt="Vera Magalhães" width="50%" height="50%" tyle="text-align: center;">
+</div>
 
 ## Lista de Jornalistas Acusados
 
@@ -15,17 +17,11 @@ A lista inclui nomes identificados em relatórios como "detratores" do governo B
 <argument name="citation_id">1</argument>
  |
 | Patrícia Campos Mello[^161] | Folha de S.Paulo | Acusada de reportagens distorcidas sobre campanhas de WhatsApp; assassinato de reputação contra direita. | [Relato de acusação](https://noticias.uol.com.br/colunas/rubens-valente/2020/12/01/lista-monitoramento-redes-sociais-governo-bolsonaro.htm)  |
-| Daniela Lima         | CNN Brasil       | Acusada de celebrar decisões do TSE contra canais conservadores; viés em coberturas eleitorais. | [Post sobre golpe do TSE](https://x.com/DanielaLima_/status/1582465240448389122) 
-<argument name="citation_id">136</argument>
- |
+| Daniela Lima         | CNN Brasil       | Acusada de celebrar decisões do TSE contra canais conservadores; viés em coberturas eleitorais. | [Post sobre golpe do TSE](https://x.com/DanielaLima_/status/1582465240448389122)  |
 | Natuza Nery[^161]          | Globo            | Acusada de matérias enviesadas e apoio a regulação de fake news como censura. | [Acusação de viés](https://noticias.uol.com.br/colunas/rubens-valente/2020/12/01/lista-monitoramento-redes-sociais-governo-bolsonaro.htm)  |
-| Andréa Sadi          | Globo            | Acusada de perseguição online contra deputados conservadores via reportagens. | [Processo por notícia](https://x.com/cynaramenezes/status/1551948860322463744) 
-<argument name="citation_id">140</argument>
- |
+| Andréa Sadi          | Globo            | Acusada de perseguição online contra deputados conservadores via reportagens. | [Processo por notícia](https://x.com/cynaramenezes/status/1551948860322463744)  |
 | Miriam Leitão[^161]        | Globo            | Acusada de distorções econômicas contra governo Bolsonaro; apoio a impeachment. | [Lista de detratores](https://noticias.uol.com.br/colunas/rubens-valente/2020/12/01/lista-monitoramento-redes-sociais-governo-bolsonaro.htm)  |
-| Reinaldo Azevedo     | Band / UOL       | Acusado de chamar conservadores de extremistas e defender regulação de mídia. | [Acusação de militância](https://noangulo.com.br/a-militancia-politica-na-espn-brasil-desrespeita-o-telespectador/) 
-<argument name="citation_id">164</argument>
- |
+| Reinaldo Azevedo     | Band / UOL       | Acusado de chamar conservadores de extremistas e defender regulação de mídia. | [Acusação de militância](https://noangulo.com.br/a-militancia-politica-na-espn-brasil-desrespeita-o-telespectador/)  |
 | Leonardo Sakamoto[^161]    | UOL              | Acusado de campanhas online contra empresários conservadores; viés trabalhista. | [Lista de detratores](https://noticias.uol.com.br/colunas/rubens-valente/2020/12/01/lista-monitoramento-redes-sociais-governo-bolsonaro.htm) 
  |
 | Josias de Souza[^161]       | UOL              | Acusado de matérias distorcidas sobre corrupção na direita; apoio a Lava Jato enviesada. | [Acusação de bias](https://noticias.uol.com.br/colunas/rubens-valente/2020/12/01/lista-monitoramento-redes-sociais-governo-bolsonaro.htm) |
