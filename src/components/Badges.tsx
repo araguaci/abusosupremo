@@ -28,6 +28,12 @@ const Badges = () => {
               alt="ABUSO FEDERAL"
             />
           </a>
+          <a href="https://abaladademocracia.vercel.app" className='display-inline-block m-2'>
+            <img
+              src="https://img.shields.io/badge/DEMOCRACIA%20ABALADA-1E811F?logo=miraheze&logoColor=FFFC00&style=flat"
+              alt="DEMOCRACIA ABALADA"
+            />
+          </a>
       </div>
     </footer>   
   );
