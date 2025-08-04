@@ -12,7 +12,7 @@ export const censorshipData: CensorshipData = {
       "target": "conservadores",
       "title": "Inquérito das Fake News",
       "year": 2019,
-      "source": "/genese-censura"
+      "source": "./genese-censura"
     },
     {
       "date": "Março",
@@ -20,7 +20,8 @@ export const censorshipData: CensorshipData = {
       "type": "judicial",
       "target": "jornalistas_de_direita",
       "title": "Censura à Crusoé e O Antagonista",
-      "year": 2019
+      "year": 2019,
+      "source": "./genese-censura"
     },
   ],
   "2020": [
