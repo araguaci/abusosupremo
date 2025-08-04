@@ -4,36 +4,41 @@ const Badges = () => {
   return ( 
     <footer className="bg-card text-card-foreground py-4 mt-aut mb-3">
       <div className="flex justify-center items-center">          
-          <a href="https://stop-war-for-ever.vercel.app" className='display-inline-block m-2'>
-            <img
-              src="https://img.shields.io/badge/STOP%20WAR%20FOR%20EVER-6d3d9d?logo=alchemy&logoColor=00aced&style=flat"
-              alt="STOP-WAR-FOR-EVER"
-            />
-          </a>
-          <a href="https://abusosupremo.vercel.app" className='display-inline-block m-2'>
-            <img
-              src="https://img.shields.io/badge/ABUSO%20SUPREMO-351d1d?logo=msi&logoColor=6bc175&style=flat"
-              alt="ABUSO SUPREMO"
-            />
-          </a>
-          <a href="https://futuroroubado.vercel.app" className='display-inline-block m-2'>
-            <img
-              src="https://img.shields.io/badge/FUTURO%20ROUBADO-417547?logo=redragon&logoColor=efefef&style=flat"
-              alt="FUTURO ROUBADO"
-            />
-          </a>
-          <a href="https://abusofederal.vercel.app" className='display-inline-block m-2'>
-            <img
-              src="https://img.shields.io/badge/ABUSO%20FEDERAL-00295b?logo=diagramsdotnet&logoColor=bf2b2b&style=flat"
-              alt="ABUSO FEDERAL"
-            />
-          </a>
-          <a href="https://abaladademocracia.vercel.app" className='display-inline-block m-2'>
-            <img
-              src="https://img.shields.io/badge/DEMOCRACIA%20ABALADA-1E811F?logo=miraheze&logoColor=FFFC00&style=flat"
-              alt="DEMOCRACIA ABALADA"
-            />
-          </a>
+        <a href="https://stop-war-for-ever.vercel.app" className='display-inline-block m-2'>
+          <img
+            src="https://img.shields.io/badge/STOP%20WAR%20FOR%20EVER-6d3d9d?logo=alchemy&logoColor=00aced&style=flat"
+            alt="STOP-WAR-FOR-EVER"
+          />
+        </a>
+        <a href="https://abusosupremo.vercel.app" className='display-inline-block m-2'>
+          <img
+            src="https://img.shields.io/badge/ABUSO%20SUPREMO-00295b?logo=laravelnova&logoColor=FED141&style=flat"
+            alt="ABUSO SUPREMO"
+          />
+        </a>
+        <a href="https://futuroroubado.vercel.app" className='display-inline-block m-2'>
+          <img
+            src="https://img.shields.io/badge/FUTURO%20ROUBADO-00295b?logo=redragon&logoColor=FED141&style=flat"
+            alt="FUTURO ROUBADO"
+          />
+        </a>
+        <a href="https://abusofederal.vercel.app" className='display-inline-block m-2'>
+          <img
+            src="https://img.shields.io/badge/ABUSO%20FEDERAL-00295b?logo=brave&logoColor=FED141&style=flat"
+            alt="ABUSO FEDERAL"
+          />
+        </a>
+        <a href="https://abaladademocracia.vercel.app" className='display-inline-block m-2'>
+          <img
+            src="https://img.shields.io/badge/DEMOCRACIA%20ABALADA-00295b?logo=miraheze&logoColor=FED141&style=flat"
+            alt="DEMOCRACIA ABALADA"
+          />
+        </a>
+      </div>
+      <div className="p-4 text-center flex items-center justify-center">
+        <p className="text-sm text-gray-500 hover:text-gray-700 dark:text-gray-400 dark:hover:text-gray-200">
+          ✠<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fabusosupremo.vercel.app%2F&amp;label=cientes&amp;countColor=%23263759" alt="Deram Ciência" loading="lazy"/>✠
+        </p>
       </div>
     </footer>   
   );
