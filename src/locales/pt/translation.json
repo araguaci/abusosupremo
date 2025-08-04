@@ -1,5 +1,5 @@
 {
-  "app_title": "Censura no Brasil",
+  "app_title": "Censura 🇧🇷",
   "nav_timeline": "Linha do Tempo",
   "nav_history": "História",
   "nav_resources": "Recursos",
@@ -13,6 +13,7 @@
   "dossie_page_title": "Dossiê Moraes",
   "dossie_page_description": "Os abusos do ministro Alexandre de Moraes que afrontam garantias fundamentais e o império da lei no Brasil",
   "filter_by_violation": "Filtrar por violação",
+  "violations": "Violações",
   "all_violations": "Todas as violações",
   "ieepa_page_title": "Abordando Ameaças aos Estados Unidos",
   "ieepa_page_description": "Um resumo das ações anunciadas pelo governo dos EUA contra o Brasil, destacando os pontos legais, políticos e econômicos.",
@@ -240,5 +241,19 @@
   "ongs_page_description": "Uma investigação sobre a rede de ONGs financiadas pela USAID e sua influência nas eleições brasileiras.",
   "genese_censura_page_title": "A Gênese da Censura",
   "genese_censura_page_description": "Como a censura à revista Crusoé marcou o início de uma nova fase de ativismo judicial.",
-  "back_to_usaid_hub": "Voltar para a página da USAID"
+  "back_to_usaid_hub": "Voltar para a página da USAID",
+  "usaid_tse_timeline_title": "Linha do Tempo USAID/TSE",
+  "usaid_tse_timeline_subtitle": "Eventos relacionados à interferência da USAID e ações do TSE",
+  "search_events": "Buscar eventos...",
+  "filter_by_year": "Filtrar por ano",
+  "all_years": "Todos os anos",
+  "filter_by_gravity": "Filtrar por gravidade",
+  "all_gravities": "Todas as gravidades",
+  "clear_filters": "Limpar filtros",
+  "no_events_found": "Nenhum evento encontrado para os filtros selecionados.",
+  "involved": "Envolvidos",
+  "sources": "Fontes",
+  "gravity_baixa": "Baixa",
+  "gravity_media": "Média",
+  "gravity_alta": "Alta"
 }

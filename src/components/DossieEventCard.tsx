@@ -38,7 +38,7 @@ const DossieEventCard: React.FC<DossieEventCardProps> = ({ event }) => {
   return (
     <Card className="shadow-lg hover:shadow-xl transition-shadow duration-300 flex flex-col h-full">
       <CardHeader>
-        <div className="flex items-center text-sm text-muted-foreground mb-2">
+        <div className="flex items-center text-sm text-muted-foreground mb-2 text-sm font-bold">
           <Calendar className="h-4 w-4 mr-2" />
           <span>{event.data}</span>
         </div>

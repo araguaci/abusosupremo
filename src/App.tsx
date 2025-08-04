@@ -17,6 +17,7 @@ import CensuradosPage from './pages/CensuradosPage';
 import GalleryPage from './pages/GalleryPage';
 import IeepaPage from './pages/IeepaPage';
 import DossiePage from './pages/DossiePage'; // Import the new DossiePage
+import UsaidTseTimelinePage from './pages/UsaidTseTimelinePage';
 
 function App() {
   return (
@@ -37,6 +38,7 @@ function App() {
             <Route path="/ieepa" element={<IeepaPage />} />
             <Route path="/gallery" element={<GalleryPage />} />
             <Route path="/censurados" element={<CensuradosPage />} />
+            <Route path="/usaid-tse" element={<UsaidTseTimelinePage />} />
             <Route path="/dossie" element={<DossiePage />} /> {/* New route for DossiePage */}
           </Route>
           <Route path="*" element={<NotFound />} />

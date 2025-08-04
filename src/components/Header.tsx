@@ -16,21 +16,22 @@ import {
   Image,
   Gavel, // Import the Gavel icon
   FileText, // Import the FileText icon
+  GitMerge,
 } from 'lucide-react';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
 import { Button } from '@/components/ui/button';
 
 const navItems = [
   { to: '/', icon: List, labelKey: 'nav_timeline', defaultLabel: 'Timeline', end: true },
+  { to: '/dossie', icon: FileText, labelKey: 'nav_dossie', defaultLabel: 'Dossiê' },    
+  { to: '/usaid-tse', icon: GitMerge, labelKey: 'nav_usaid_tse', defaultLabel: 'TSE' },
+  { to: '/prisoes-politicas', icon: Landmark, labelKey: 'nav_prisoes_politicas', defaultLabel: 'Prisões Políticas' },
   { to: '/tio-joe', icon: Users, labelKey: 'nav_tio_joe', defaultLabel: 'Tio Joe' },
   { to: '/usaid', icon: Globe, labelKey: 'nav_usaid', defaultLabel: 'USAID' },
   { to: '/ofac', icon: Scale, labelKey: 'nav_ofac', defaultLabel: 'OFAC' },
   { to: '/ieepa', icon: Gavel, labelKey: 'nav_ieepa', defaultLabel: 'IEEPA' },
-  { to: '/dossie', icon: FileText, labelKey: 'nav_dossie', defaultLabel: 'Dossiê' },
-  { to: '/prisoes-politicas', icon: Landmark, labelKey: 'nav_prisoes_politicas', defaultLabel: 'Prisões Políticas' },
   { to: '/gallery', icon: Image, labelKey: 'nav_gallery', defaultLabel: 'Gallery' },
   { to: '/educational-resources', icon: BookOpen, labelKey: 'nav_resources', defaultLabel: 'Resources' },
-  { to: '/history-of-censorship', icon: History, labelKey: 'nav_history', defaultLabel: 'History' },
 ];
 
 const Header: React.FC = () => {

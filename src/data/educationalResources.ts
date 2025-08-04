@@ -133,6 +133,13 @@ const resources: EducationalResource[] = [
     descriptionKey: 'resource_fake_news_hunters_lula_description',
     href: 'https://www.ainvestigacao.com/p/cacadores-de-fake-news-como-lula',
     categoryKey: 'resource_category_article',
+  },
+  {
+    id: 'nav_history',
+    titleKey: 'history_of_censorship_page_title',
+    descriptionKey: 'history_of_censorship_page_description',
+    href: './history-of-censorship',
+    categoryKey: 'resource_category_article',
   }
 ];
 

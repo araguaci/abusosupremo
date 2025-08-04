@@ -41,7 +41,7 @@ const TimelineEventCard: React.FC<TimelineEventCardProps> = ({ event }) => {
     <Card className="shadow-lg hover:shadow-xl transition-shadow duration-300">
       <CardHeader>
         <CardTitle>{event.title}</CardTitle>
-        <CardDescription>{event.date}</CardDescription>
+        <CardDescription className='font-bold'>{event.date}</CardDescription>
       </CardHeader>
       <CardContent>
         <p className="text-sm text-muted-foreground mb-4">{event.description}</p>
