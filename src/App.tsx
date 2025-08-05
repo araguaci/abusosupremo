@@ -39,6 +39,7 @@ function App() {
             <Route path="/gallery" element={<GalleryPage />} />
             <Route path="/censurados" element={<CensuradosPage />} />
             <Route path="/usaid-tse" element={<UsaidTseTimelinePage />} />
+            <Route path="/history-of-censorship" element={<UsaidTseTimelinePage />} />            
             <Route path="/dossie" element={<DossiePage />} /> {/* New route for DossiePage */}
           </Route>
           <Route path="*" element={<NotFound />} />
