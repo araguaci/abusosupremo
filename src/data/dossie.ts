@@ -950,8 +950,22 @@ export const dossieData: DossieData = {
     },
     {
       "data": "2025/08/04",
+      "acao": "Tornozeleira eletrônica no Senador Marcos Do Val. A defesa do senador Marcos do Val e especialistas jurídicos levantaram diversas preocupações sobre possíveis violações de princípios jurídicos fundamentais devido às medidas impostas ao parlamentar, principalmente o uso de tornozeleira eletrônica e restrições patrimoniais e de liberdade",
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Separação de Poderes",
+        "Proporcionalidade",
+        "Legalidade",
+        "Ampla Defesa"
+      ],
+      "year": 2025
+    },
+    {
+      "data": "2025/08/04",
       "acao": "Decretada prisão domiciliar de Bolsonaro por suposto descumprimento de medidas cautelares",
       "violacao": [
+        "Prerrogativas Parlamentares",
         "Liberdade de Expressão",
         "Devido Processo Legal",
         "Separação de Poderes",
