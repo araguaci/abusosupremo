@@ -34,6 +34,10 @@ const DossiePage: React.FC = () => {
     return acc;
   }, {} as { [year: string]: DossieEvent[] });
 
+  // Sort events within each year by date, from most recent to oldest
+  for (const year in eventsByYear) {
+    eventsByYear[year].sort((a, b) => b.data.localeCompare(a.data));
+  }
   const sortedYears = Object.keys(eventsByYear).sort((a, b) => parseInt(b) - parseInt(a));
 
   const showClearButton = filters.year !== 'all' || filters.violation !== 'all' || filters.term !== '';
