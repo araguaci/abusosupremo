@@ -963,18 +963,6 @@ export const dossieData: DossieData = {
     },
     {
       "data": "2025/08/04",
-      "acao": "Daniel Silveira tem negado tratamento médico necessário enquanto ele se encontrava preso, mesmo após apresentar laudos médicos que apontavam “sérios riscos de infecção e elevada gravidade” após cirurgia no joelho direito. Foram protocolados 24 pedidos de urgência ao Supremo Tribunal Federal (STF) para permitir sua transferência a um hospital ou a concessão de prisão domiciliar humanitária para tratamento adequado, conforme recomendações médicas",
-      "violacao": [
-        "Dignidade da pessoa humana",
-        "Direito à saúde",
-        "Proibição de tratamento desumano ou degradante",
-        "Legalidade", 
-        "Princípio do mínimo existencial"
-      ],
-      "year": 2025
-    },
-    {
-      "data": "2025/08/04",
       "acao": "Decretada prisão domiciliar de Bolsonaro por suposto descumprimento de medidas cautelares",
       "violacao": [
         "Prerrogativas Parlamentares",
@@ -984,6 +972,18 @@ export const dossieData: DossieData = {
         "Proporcionalidade",
         "Legalidade",
         "Ampla Defesa"
+      ],
+      "year": 2025
+    },
+    {
+      "data": "2025/08/04",
+      "acao": "Daniel Silveira tem negado tratamento médico necessário enquanto ele se encontrava preso, mesmo após apresentar laudos médicos que apontavam “sérios riscos de infecção e elevada gravidade” após cirurgia no joelho direito. Foram protocolados 24 pedidos de urgência ao Supremo Tribunal Federal (STF) para permitir sua transferência a um hospital ou a concessão de prisão domiciliar humanitária para tratamento adequado, conforme recomendações médicas",
+      "violacao": [
+        "Dignidade da Pessoa Humana",
+        "Direito à saúde",
+        "Proibição de tratamento desumano ou degradante",
+        "Legalidade", 
+        "Princípio do mínimo existencial"
       ],
       "year": 2025
     }
