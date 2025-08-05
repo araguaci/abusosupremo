@@ -5,37 +5,71 @@ export const dossieData: DossieData = {
     {
       "data": "14/03/2019",
       "acao": "Dias Toffoli instaura, por meio de Portaria nº 69 do Gabinete da Presidência do STF, o Inquérito das Fake News e designa Alexandre de Moraes como seu condutor",
-      "violacao": ["Juiz Natural", "Imparcialidade", "Devido Processo Legal", "Separação dos Poderes", "Sistema Acusatório", "Proibição de Tribunal de Exceção"],
+      "violacao": [
+        "Juiz Natural",
+        "Imparcialidade",
+        "Devido Processo Legal",
+        "Separação dos Poderes",
+        "Sistema Acusatório",
+        "Proibição de Tribunal de Exceção"
+      ],
       "year": 2019
     },
     {
       "data": "15/04/2019",
       "acao": "Censura a reportagem da Crusoé ligando Toffoli à Odebrecht por citar Amigo do amigo do meu pai",
-      "violacao": ["Liberdade de Expressão", "Liberdade de Imprensa", "Devido Processo Legal", "Proporcionalidade"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Liberdade de Imprensa",
+        "Devido Processo Legal",
+        "Proporcionalidade"
+      ],
       "year": 2019
     },
     {
       "data": "16/04/2019",
       "acao": "Buscas e bloqueio de redes sociais no Inquérito das Fake News contra candidatos e internautas que criticaram o STF",
-      "violacao": ["Liberdade de Expressão", "Inviolabilidade do Domicílio", "Devido Processo Legal", "Separação de Poderes"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Inviolabilidade do Domicílio",
+        "Devido Processo Legal",
+        "Separação de Poderes"
+      ],
       "year": 2019
     },
     {
       "data": "16/04/2019",
       "acao": "PGR promove o arquivamento do Inquérito nos autos; Moraes ignora a jurisprudência do STF e rejeita o arquivamento",
-      "violacao": ["Juiz Natural", "Imparcialidade", "Devido Processo Legal", "Separação dos Poderes", "Sistema Acusatório", "Proibição de Juiz de Exceção"],
+      "violacao": [
+        "Juiz Natural",
+        "Imparcialidade",
+        "Devido Processo Legal",
+        "Separação dos Poderes",
+        "Sistema Acusatório",
+        "Proibição de Juiz de Exceção"
+      ],
       "year": 2019
     },
     {
       "data": "27/09/2019",
       "acao": "Busca e apreensão contra ex-PGR Rodrigo Janot",
-      "violacao": ["Inviolabilidade do Domicílio", "Devido Processo Legal", "Proporcionalidade", "Separação de Poderes"],
+      "violacao": [
+        "Inviolabilidade do Domicílio",
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Separação de Poderes"
+      ],
       "year": 2019
     },
     {
       "data": "16/12/2019",
       "acao": "Primeira prorrogação do inquérito das fake news por 180 dias",
-      "violacao": ["Segurança Jurídica", "Devido Processo Legal", "Proporcionalidade", "Razoável Duração do Processo"],
+      "violacao": [
+        "Segurança Jurídica",
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Razoável Duração do Processo"
+      ],
       "year": 2019
     }
   ],
@@ -43,73 +77,135 @@ export const dossieData: DossieData = {
     {
       "data": "21/04/2020",
       "acao": "Instauração do Inquérito dos Atos Antidemocráticos após o Dia do Exército",
-      "violacao": ["Liberdade de Expressão", "Liberdade de Associação", "Separação de Poderes", "Devido Processo Legal"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Liberdade de Associação",
+        "Separação de Poderes",
+        "Devido Processo Legal"
+      ],
       "year": 2020
     },
     {
       "data": "29/04/2020",
       "acao": "Suspensão da nomeação de Alexandre Ramagem para diretor da PF",
-      "violacao": ["Separação de Poderes", "Proporcionalidade", "Devido Processo Legal", "Segurança Jurídica"],
+      "violacao": [
+        "Separação de Poderes",
+        "Proporcionalidade",
+        "Devido Processo Legal",
+        "Segurança Jurídica"
+      ],
       "year": 2020
     },
     {
       "data": "26/05/2020",
       "acao": "Determinação de depoimento de Weintraub à PF por fala contra STF no inquérito fake news",
-      "violacao": ["Liberdade de Expressão", "Devido Processo Legal", "Separação de Poderes", "Imunidade de Opinião"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Separação de Poderes",
+        "Imunidade de Opinião"
+      ],
       "year": 2020
     },
     {
       "data": "27/05/2020",
       "acao": "Deflagração da Operação Lupa com buscas contra desafetos no inquérito das fake news",
-      "violacao": ["Imparcialidade Judicial", "Devido Processo Legal", "Liberdade de Expressão", "Separação de Poderes", "Princípio Acusatório", "Proibição de Juiz de Exceção"],
+      "violacao": [
+        "Imparcialidade Judicial",
+        "Devido Processo Legal",
+        "Liberdade de Expressão",
+        "Separação de Poderes",
+        "Princípio Acusatório",
+        "Proibição de Juiz de Exceção"
+      ],
       "year": 2020
     },
     {
       "data": "15/06/2020",
       "acao": "Prisão temporária de Sara Winter e ativistas bolsonaristas",
-      "violacao": ["Devido Processo Legal", "Proporcionalidade", "Liberdade de Expressão"],
+      "violacao": [
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Liberdade de Expressão"
+      ],
       "year": 2020
     },
     {
       "data": "17/06/2020",
       "acao": "Voto pela rejeição da ADPF 572, defendendo continuidade do inquérito das fake news",
-      "violacao": ["Imparcialidade do Juiz", "Devido Processo Legal", "Princípio Acusatório", "Separação dos Poderes"],
+      "violacao": [
+        "Imparcialidade do Juiz",
+        "Devido Processo Legal",
+        "Princípio Acusatório",
+        "Separação dos Poderes"
+      ],
       "year": 2020
     },
     {
       "data": "01/07/2020",
       "acao": "Nova prorrogação do inquérito das fake news por mais 180 dias",
-      "violacao": ["Duração Razoável do Processo", "Devido Processo Legal", "Princípio Acusatório", "Imparcialidade do Juiz", "Celeridade Processual"],
+      "violacao": [
+        "Duração Razoável do Processo",
+        "Devido Processo Legal",
+        "Princípio Acusatório",
+        "Imparcialidade do Juiz",
+        "Celeridade Processual"
+      ],
       "year": 2020
     },
     {
       "data": "24/07/2020",
       "acao": "Bloqueio de 16 perfis do Twitter e 12 do Facebook no âmbito do Inquérito das Fake News.",
-      "violacao": ["Liberdade de Expressão", "Devido Processo Legal", "Juiz Natural", "Publicidade dos Atos Processuais"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Juiz Natural",
+        "Publicidade dos Atos Processuais"
+      ],
       "year": 2020
     },
     {
       "data": "30/07/2020",
       "acao": "Bloqueio internacional de perfis bolsonaristas no Twitter por Moraes",
-      "violacao": ["Liberdade de Expressão", "Proporcionalidade", "Devido Processo Legal", "Segurança Jurídica"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Proporcionalidade",
+        "Devido Processo Legal",
+        "Segurança Jurídica"
+      ],
       "year": 2020
     },
     {
       "data": "31/07/2020",
       "acao": "Moraes multa Facebook em R$1,92 mi e eleva diária a R$100 mil por perfil",
-      "violacao": ["Liberdade de Expressão", "Territorialidade", "Proporcionalidade", "Devido Processo Legal", "Legalidade", "Separação de Poderes"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Territorialidade",
+        "Proporcionalidade",
+        "Devido Processo Legal",
+        "Legalidade",
+        "Separação de Poderes"
+      ],
       "year": 2020
     },
     {
       "data": "13/10/2020",
       "acao": "Solicitação informal de relatórios ao TSE para inquéritos no STF",
-      "violacao": ["Devido Processo Legal", "Separação de Poderes"],
+      "violacao": [
+        "Devido Processo Legal",
+        "Separação de Poderes"
+      ],
       "year": 2020
     },
     {
       "data": "18/12/2020",
       "acao": "Prisão preventiva de Oswaldo Eustáquio por descumprir prisão domiciliar",
-      "violacao": ["Liberdade de Expressão", "Devido Processo Legal", "Proporcionalidade", "Segurança Jurídica"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Segurança Jurídica"
+      ],
       "year": 2020
     }
   ],
@@ -117,61 +213,127 @@ export const dossieData: DossieData = {
     {
       "data": "20/04/2021",
       "acao": "Moraes anula processos em que Temer e Moreira eram réus pela Lava Jato, blindando antigos aliados",
-      "violacao": ["Impessoalidade", "Moralidade", "Imparcialidade Judicial", "Igualdade", "Probidade Administrativa", "Independência do Poder Judiciário"],
+      "violacao": [
+        "Impessoalidade",
+        "Moralidade",
+        "Imparcialidade Judicial",
+        "Igualdade",
+        "Probidade Administrativa",
+        "Independência do Poder Judiciário"
+      ],
       "year": 2021
     },
     {
       "data": "24/06/2021",
       "acao": "Prisão de Silveira por não pagar fiança de R$100 mil por violações cautelares",
-      "violacao": ["Imunidade Parlamentar", "Proporcionalidade", "Devido Processo Legal", "Liberdade de Expressão", "Separação de Poderes", "Igualdade"],
+      "violacao": [
+        "Imunidade Parlamentar",
+        "Proporcionalidade",
+        "Devido Processo Legal",
+        "Liberdade de Expressão",
+        "Separação de Poderes",
+        "Igualdade"
+      ],
       "year": 2021
     },
     {
       "data": "02/07/2021",
       "acao": "Abertura do Inquérito das Milícias Digitais como desdobramento de atos antidemocráticos",
-      "violacao": ["Devido Processo Legal", "Juiz Natural", "Segurança Jurídica", "Separação de Poderes", "Liberdade de Expressão", "Estado Democrático de Direito"],
+      "violacao": [
+        "Devido Processo Legal",
+        "Juiz Natural",
+        "Segurança Jurídica",
+        "Separação de Poderes",
+        "Liberdade de Expressão",
+        "Estado Democrático de Direito"
+      ],
       "year": 2021
     },
     {
       "data": "04/08/2021",
       "acao": "Inclusão de Bolsonaro no Inquérito das Fake News por Ataques às Urnas",
-      "violacao": ["Devido Processo Legal", "Separação de Poderes", "Liberdade de Expressão", "Legalidade", "Impessoalidade"],
+      "violacao": [
+        "Devido Processo Legal",
+        "Separação de Poderes",
+        "Liberdade de Expressão",
+        "Legalidade",
+        "Impessoalidade"
+      ],
       "year": 2021
     },
     {
       "data": "13/08/2021",
       "acao": "Prisão Preventiva de Roberto Jefferson por Ataques Verbais",
-      "violacao": ["Liberdade de Expressão", "Devido Processo Legal", "Presunção de Inocência", "Proporcionalidade", "Separação de Poderes", "Não Antecipação de Pena"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Presunção de Inocência",
+        "Proporcionalidade",
+        "Separação de Poderes",
+        "Não Antecipação de Pena"
+      ],
       "year": 2021
     },
     {
       "data": "20/08/2021",
       "acao": "Buscas contra Sérgio Reis e Otoni de Paula por incitar violência contra democracia",
-      "violacao": ["Liberdade de Expressão", "Direito de Reunião", "Devido Processo Legal", "Separação de Poderes", "Legalidade"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Direito de Reunião",
+        "Devido Processo Legal",
+        "Separação de Poderes",
+        "Legalidade"
+      ],
       "year": 2021
     },
     {
       "data": "06/09/2021",
       "acao": "Bloqueio de contas bancárias e de redes sociais de apoiadores de Bolsonaro antes do 7/9",
-      "violacao": ["Liberdade de Expressão", "Devido Processo Legal", "Presunção de Inocência", "Proporcionalidade", "Liberdade de Associação", "Separação de Poderes"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Presunção de Inocência",
+        "Proporcionalidade",
+        "Liberdade de Associação",
+        "Separação de Poderes"
+      ],
       "year": 2021
     },
     {
       "data": "07/09/2021",
       "acao": "Detenção e interrogatório de Jason Miller no aeroporto por Moraes",
-      "violacao": ["Liberdade de Expressão", "Devido Processo Legal", "Separação de Poderes", "Liberdade de Locomoção", "Legalidade"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Separação de Poderes",
+        "Liberdade de Locomoção",
+        "Legalidade"
+      ],
       "year": 2021
     },
     {
       "data": "08/09/2021",
       "acao": "Postura de Moraes pós-7 de Setembro acirra crise com o Executivo",
-      "violacao": ["Separação de Poderes", "Imparcialidade Judicial", "Devido Processo Legal", "Liberdade de Expressão", "Harmonia entre os Poderes"],
+      "violacao": [
+        "Separação de Poderes",
+        "Imparcialidade Judicial",
+        "Devido Processo Legal",
+        "Liberdade de Expressão",
+        "Harmonia entre os Poderes"
+      ],
       "year": 2021
     },
     {
       "data": "21/10/2021",
       "acao": "Suspensão de perfis e bloqueio de monetização de Allan dos Santos",
-      "violacao": ["Liberdade de Expressão", "Liberdade de imprensa", "Devido processo legal", "Separação de poderes", "Ampla defesa", "Legalidade"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Liberdade de imprensa",
+        "Devido processo legal",
+        "Separação de poderes",
+        "Ampla defesa",
+        "Legalidade"
+      ],
       "year": 2021
     }
   ],
@@ -179,61 +341,128 @@ export const dossieData: DossieData = {
     {
       "data": "18/03/2022",
       "acao": "Bloqueio nacional do Telegram e multa de R$100 mil/dia a usuários",
-      "violacao": ["Liberdade de Expressão", "Proporcionalidade", "Devido Processo Legal", "Imparcialidade Judicial", "Segurança Jurídica", "Direito à Informação"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Proporcionalidade",
+        "Devido Processo Legal",
+        "Imparcialidade Judicial",
+        "Segurança Jurídica",
+        "Direito à Informação"
+      ],
       "year": 2022
     },
     {
       "data": "20/04/2022",
       "acao": "Vota pela condenação de Silveira sendo vítima e relator do caso",
-      "violacao": ["Imparcialidade do Juiz", "Devido Processo Legal", "Liberdade de Expressão", "Separação de Poderes", "Juiz Natural", "Proporcionalidade"],
+      "violacao": [
+        "Imparcialidade do Juiz",
+        "Devido Processo Legal",
+        "Liberdade de Expressão",
+        "Separação de Poderes",
+        "Juiz Natural",
+        "Proporcionalidade"
+      ],
       "year": 2022
     },
     {
       "data": "03/05/2022",
       "acao": "Moraes multa e bloqueia bens de Daniel Silveira em R$ 405 mil",
-      "violacao": ["Devido Processo Legal", "Proporcionalidade", "Separação de Poderes", "Liberdade de Expressão", "Imparcialidade Judicial", "Dignidade da Pessoa Humana"],
+      "violacao": [
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Separação de Poderes",
+        "Liberdade de Expressão",
+        "Imparcialidade Judicial",
+        "Dignidade da Pessoa Humana"
+      ],
       "year": 2022
     },
     {
       "data": "19/08/2022",
       "acao": "Buscas contra empresários por mensagens golpistas no WhatsApp",
-      "violacao": ["Liberdade de Expressão", "Inviolabilidade da Privacidade", "Devido Processo Legal", "Legalidade", "Proporcionalidade"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Inviolabilidade da Privacidade",
+        "Devido Processo Legal",
+        "Legalidade",
+        "Proporcionalidade"
+      ],
       "year": 2022
     },
     {
       "data": "14/10/2022",
       "acao": "TSE emite 42 decisões pró-Lula e 6 pró-Bolsonaro em fake news",
-      "violacao": ["Imparcialidade", "Igualdade", "Liberdade de Expressão", "Devido Processo Legal", "Separação de Poderes", "Probidade"],
+      "violacao": [
+        "Imparcialidade",
+        "Igualdade",
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Separação de Poderes",
+        "Probidade"
+      ],
       "year": 2022
     },
     {
       "data": "17/10/2022",
       "acao": "TSE de Moraes censura Jovem Pan de citar Lula sob multa diária de R$ 25 mil",
-      "violacao": ["Liberdade de Expressão", "Liberdade de Imprensa", "Devido Processo Legal", "Proporcionalidade", "Isonomia Eleitoral", "Pluralismo Político"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Liberdade de Imprensa",
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Isonomia Eleitoral",
+        "Pluralismo Político"
+      ],
       "year": 2022
     },
     {
       "data": "13/11/2022",
       "acao": "Bloqueio indevido de perfis de Homero Marchese por post informativo",
-      "violacao": ["Liberdade de Expressão", "Devido Processo Legal", "Proporcionalidade", "Legalidade", "Separação dos Poderes"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Legalidade",
+        "Separação dos Poderes"
+      ],
       "year": 2022
     },
     {
       "data": "22/11/2022",
       "acao": "Uso informal do TSE como braço investigativo para STF contra bolsonaristas",
-      "violacao": ["Separação de Poderes", "Devido Processo Legal", "Legalidade", "Impessoalidade", "Liberdade de Expressão", "Proporcionalidade"],
+      "violacao": [
+        "Separação de Poderes",
+        "Devido Processo Legal",
+        "Legalidade",
+        "Impessoalidade",
+        "Liberdade de Expressão",
+        "Proporcionalidade"
+      ],
       "year": 2022
     },
     {
       "data": "23/11/2022",
       "acao": "Multa de R$22,9 mi ao PL por questionar urnas sem provas",
-      "violacao": ["Separação de Poderes", "Proporcionalidade", "Devido Processo Legal", "Liberdade de Expressão", "Igualdade Partidária", "Estado Democrático de Direito"],
+      "violacao": [
+        "Separação de Poderes",
+        "Proporcionalidade",
+        "Devido Processo Legal",
+        "Liberdade de Expressão",
+        "Igualdade Partidária",
+        "Estado Democrático de Direito"
+      ],
       "year": 2022
     },
     {
       "data": "15/12/2022",
       "acao": "Jornalista Jackson Rangel, e mais 23, são presos por supostos envolvimentos em atos antidemocráticos",
-      "violacao": ["Liberdade de Expressão", "Liberdade de Imprensa", "Devido Processo Legal", "Proporcionalidade", "Imparcialidade Judicial"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Liberdade de Imprensa",
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Imparcialidade Judicial"
+      ],
       "year": 2022
     }
   ],
@@ -241,73 +470,149 @@ export const dossieData: DossieData = {
     {
       "data": "05/01/2023",
       "acao": "Moraes ordena bloqueio de contas e cancelamento de passaporte de Rodrigo Constantino",
-      "violacao": ["Liberdade de Expressão", "Devido Processo Legal", "Proporcionalidade", "Separação de Poderes", "Direito à Propriedade"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Separação de Poderes",
+        "Direito à Propriedade"
+      ],
       "year": 2023
     },
     {
       "data": "09/01/2023",
       "acao": "Detenção em massa pós 8/1 com idosos e crianças em condições precárias",
-      "violacao": ["Dignidade da Pessoa Humana", "Devido Processo Legal", "Proporcionalidade", "Imparcialidade Judicial", "Liberdade de Expressão", "Direitos Humanos"],
+      "violacao": [
+        "Dignidade da Pessoa Humana",
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Imparcialidade Judicial",
+        "Liberdade de Expressão",
+        "Direitos Humanos"
+      ],
       "year": 2023
     },
     {
       "data": "11/01/2023",
       "acao": "Moraes manda bloquear todas as contas de Nikolas Ferreira na redes sociais",
-      "violacao": ["Liberdade de Expressão", "Imunidade Parlamentar", "Devido Processo Legal", "Ampla Defesa e Contraditório", "Legalidade", "Proporcionalidade"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Imunidade Parlamentar",
+        "Devido Processo Legal",
+        "Ampla Defesa e Contraditório",
+        "Legalidade",
+        "Proporcionalidade"
+      ],
       "year": 2023
     },
     {
       "data": "20/01/2023",
       "acao": "Moraes converte 942 prisões em flagrante em prisões preventivas para detidos do 8/1",
-      "violacao": ["Devido Processo Legal", "Presunção de Inocência", "Proporcionalidade", "Individualização da Conduta", "Imparcialidade Judicial", "Dignidade da Pessoa Humana"],
+      "violacao": [
+        "Devido Processo Legal",
+        "Presunção de Inocência",
+        "Proporcionalidade",
+        "Individualização da Conduta",
+        "Imparcialidade Judicial",
+        "Dignidade da Pessoa Humana"
+      ],
       "year": 2023
     },
     {
       "data": "25/01/2023",
       "acao": "Moraes multa Telegram em R$ 1,2 mi por negar bloquear perfil de Nikolas Ferreira",
-      "violacao": ["Liberdade de Expressão", "Proporcionalidade", "Devido Processo Legal", "Segurança Jurídica"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Proporcionalidade",
+        "Devido Processo Legal",
+        "Segurança Jurídica"
+      ],
       "year": 2023
     },
     {
       "data": "17/03/2023",
       "acao": "Prisão de humorista no Paraguai violando asilo e tratado de extradição por crime de opinião",
-      "violacao": ["Devido Processo Legal", "Liberdade de Expressão", "Direito ao Asilo Político", "Proibição de Extradição por Crimes Políticos", "Separação de Poderes"],
+      "violacao": [
+        "Devido Processo Legal",
+        "Liberdade de Expressão",
+        "Direito ao Asilo Político",
+        "Proibição de Extradição por Crimes Políticos",
+        "Separação de Poderes"
+      ],
       "year": 2023
     },
     {
       "data": "03/05/2023",
       "acao": "Moraes autoriza busca na casa de Bolsonaro por suposto falso cartão de vacina",
-      "violacao": ["Devido Processo Legal", "Presunção de Inocência", "Inviolabilidade do Domicílio", "Proporcionalidade", "Imparcialidade Judicial", "Separação dos Poderes"],
+      "violacao": [
+        "Devido Processo Legal",
+        "Presunção de Inocência",
+        "Inviolabilidade do Domicílio",
+        "Proporcionalidade",
+        "Imparcialidade Judicial",
+        "Separação dos Poderes"
+      ],
       "year": 2023
     },
     {
       "data": "10/05/2023",
       "acao": "Ameaça de suspensão do Telegram por 72h em razão de mensagem contra PL das Fake News",
-      "violacao": ["Liberdade de Expressão", "Proporcionalidade", "Devido Processo Legal", "Imparcialidade Judicial", "Dignidade da Pessoa Humana"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Proporcionalidade",
+        "Devido Processo Legal",
+        "Imparcialidade Judicial",
+        "Dignidade da Pessoa Humana"
+      ],
       "year": 2023
     },
     {
       "data": "14/06/2023",
       "acao": "Moraes manda redes silenciar Monark com multa de R$10.000/dia",
-      "violacao": ["Liberdade de Expressão", "Devido Processo Legal", "Presunção de Inocência", "Ampla Defesa e Contraditório", "Legalidade", "Proporcionalidade"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Presunção de Inocência",
+        "Ampla Defesa e Contraditório",
+        "Legalidade",
+        "Proporcionalidade"
+      ],
       "year": 2023
     },
     {
       "data": "29/10/2023",
       "acao": "Moraes vira assistente de acusação em caso de agressão em aeroporto de Roma",
-      "violacao": ["Devido Processo Legal", "Proporcionalidade", "Imparcialidade", "Princípio do Juiz Natural"],
+      "violacao": [
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Imparcialidade",
+        "Princípio do Juiz Natural"
+      ],
       "year": 2023
     },
     {
       "data": "20/11/2023",
       "acao": "Omissão de Moraes leva à morte de Clezão, preso do 8/1 na Papuda",
-      "violacao": ["Direito à Vida", "Dignidade da Pessoa Humana", "Devido Processo Legal", "Celeridade Processual", "Proporcionalidade"],
+      "violacao": [
+        "Direito à Vida",
+        "Dignidade da Pessoa Humana",
+        "Devido Processo Legal",
+        "Celeridade Processual",
+        "Proporcionalidade"
+      ],
       "year": 2023
     },
     {
       "data": "20/12/2023",
       "acao": "MPF suscita nulidades processuais e Jornalista Jackson Rangel é liberado da prisão após 368 dias",
-      "violacao": ["Liberdade de Expressão", "Liberdade de Imprensa", "Devido Processo Legal", "Presunção de Inocência", "Juiz Natural", "Ampla defesa e contraditório"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Liberdade de Imprensa",
+        "Devido Processo Legal",
+        "Presunção de Inocência",
+        "Juiz Natural",
+        "Ampla defesa e contraditório"
+      ],
       "year": 2023
     }
   ],
@@ -315,67 +620,138 @@ export const dossieData: DossieData = {
     {
       "data": "08/01/2024",
       "acao": "23ª fase Lesa Pátria: 48 ordens contra financiadores do 8/1",
-      "violacao": ["Devido Processo Legal", "Proporcionalidade", "Imparcialidade Judicial", "Liberdade de Expressão", "Dignidade da Pessoa Humana", "Princípio da Legalidade"],
+      "violacao": [
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Imparcialidade Judicial",
+        "Liberdade de Expressão",
+        "Dignidade da Pessoa Humana",
+        "Princípio da Legalidade"
+      ],
       "year": 2024
     },
     {
       "data": "08/02/2024",
       "acao": "Prisão preventiva de cidadã americana por posts feitos na Flórida",
-      "violacao": ["Liberdade de Expressão", "Devido Processo Legal", "Legalidade", "Proporcionalidade"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Legalidade",
+        "Proporcionalidade"
+      ],
       "year": 2024
     },
     {
       "data": "29/02/2024",
       "acao": "25ª fase Lesa Pátria: 3 prisões e 24 buscas por financiadores do 8/1",
-      "violacao": ["Devido Processo Legal", "Presunção de Inocência", "Proporcionalidade", "Imparcialidade Judicial", "Legalidade", "Liberdade de Expressão"],
+      "violacao": [
+        "Devido Processo Legal",
+        "Presunção de Inocência",
+        "Proporcionalidade",
+        "Imparcialidade Judicial",
+        "Legalidade",
+        "Liberdade de Expressão"
+      ],
       "year": 2024
     },
     {
       "data": "08/04/2024",
       "acao": "Inclusão de Elon Musk no inquérito das milícias digitais por obstrução e incitação",
-      "violacao": ["Liberdade de Expressão", "Devido Processo Legal", "Legalidade", "Separação de Poderes", "Imparcialidade Judicial", "Proporcionalidade"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Legalidade",
+        "Separação de Poderes",
+        "Imparcialidade Judicial",
+        "Proporcionalidade"
+      ],
       "year": 2024
     },
     {
       "data": "08/04/2024",
       "acao": "Moraes impõe multa de R$100 mil diária ao X por reativar perfis bloqueados",
-      "violacao": ["Liberdade de Expressão", "Devido Processo Legal", "Proporcionalidade", "Separação de Poderes", "Legalidade", "Ampla Defesa"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Separação de Poderes",
+        "Legalidade",
+        "Ampla Defesa"
+      ],
       "year": 2024
     },
     {
       "data": "16/04/2024",
       "acao": "26ª fase da Lesa Pátria: 18 buscas em 8 Estados e bens bloqueados até R$40 mi",
-      "violacao": ["Devido Processo Legal", "Proporcionalidade", "Presunção de Inocência", "Inviolabilidade do Domicílio", "Imparcialidade Judicial", "Liberdade de Expressão"],
+      "violacao": [
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Presunção de Inocência",
+        "Inviolabilidade do Domicílio",
+        "Imparcialidade Judicial",
+        "Liberdade de Expressão"
+      ],
       "year": 2024
     },
     {
       "data": "31/05/2024",
       "acao": "Moraes autoriza prisões por ameaças à família antes de impedimento",
-      "violacao": ["Separação de Poderes", "Imparcialidade Judicial", "Devido Processo Legal", "Liberdade de Expressão", "Harmonia entre os Poderes"],
+      "violacao": [
+        "Separação de Poderes",
+        "Imparcialidade Judicial",
+        "Devido Processo Legal",
+        "Liberdade de Expressão",
+        "Harmonia entre os Poderes"
+      ],
       "year": 2024
     },
     {
       "data": "08/08/2024",
       "acao": "Ordem a Meta e X: dados de Allan; multa diária de R$ 100 mil",
-      "violacao": ["Liberdade de Expressão", "Proporcionalidade", "Legalidade", "Competência do Juízo", "Privacidade"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Proporcionalidade",
+        "Legalidade",
+        "Competência do Juízo",
+        "Privacidade"
+      ],
       "year": 2024
     },
     {
       "data": "29/08/2024",
       "acao": "Moraes manda bloquear contas da Starlink por falta de representantes do X no Brasil",
-      "violacao": ["Devido Processo Legal", "Imparcialidade", "Liberdade de Expressão", "Proporcionalidade", "Direito à Propriedade"],
+      "violacao": [
+        "Devido Processo Legal",
+        "Imparcialidade",
+        "Liberdade de Expressão",
+        "Proporcionalidade",
+        "Direito à Propriedade"
+      ],
       "year": 2024
     },
     {
       "data": "30/08/2024",
       "acao": "Moraes ordena bloqueio nacional do X por descumprimento judicial",
-      "violacao": ["Liberdade de Expressão", "Devido Processo Legal", "Proporcionalidade", "Imparcialidade Judicial", "Direito à Informação"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Imparcialidade Judicial",
+        "Direito à Informação"
+      ],
       "year": 2024
     },
     {
       "data": "13/12/2024",
       "acao": "Moraes manteve-se relator em inquérito de golpe apesar de ser uma das vítimas",
-      "violacao": ["Imparcialidade do julgador", "Devido processo legal", "Juiz natural", "Separação de poderes", "Ampla defesa", "Isonomia processual"],
+      "violacao": [
+        "Imparcialidade do julgador",
+        "Devido processo legal",
+        "Juiz natural",
+        "Separação de poderes",
+        "Ampla defesa",
+        "Isonomia processual"
+      ],
       "year": 2024
     }
   ],
@@ -383,91 +759,206 @@ export const dossieData: DossieData = {
     {
       "data": "21/02/2025",
       "acao": "Moraes interroga Cid sobre monitoramento próprio sem declarar suspeição",
-      "violacao": ["Imparcialidade do Juiz", "Devido Processo Legal", "Ampla Defesa", "Separação de Poderes", "Igualdade Perante a Lei", "Proibição de Abuso de Poder"],
+      "violacao": [
+        "Imparcialidade do Juiz",
+        "Devido Processo Legal",
+        "Ampla Defesa",
+        "Separação de Poderes",
+        "Igualdade Perante a Lei",
+        "Proibição de Abuso de Poder"
+      ],
       "year": 2025
     },
     {
       "data": "21/02/2025",
       "acao": "Moraes suspende Rumble no Brasil por supostamente descumprir ordens judiciais",
-      "violacao": ["Liberdade de Expressão", "Devido Processo Legal", "Territorialidade", "Legalidade", "Soberania Nacional", "Ampla Defesa"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Territorialidade",
+        "Legalidade",
+        "Soberania Nacional",
+        "Ampla Defesa"
+      ],
       "year": 2025
     },
     {
       "data": "28/03/2025",
       "acao": "Moraes converte prisão de Débora Rodrigues para prisão domiciliar com tornozeleira",
-      "violacao": ["Devido Processo Legal", "Liberdade de Expressão", "Razoabilidade", "Dignidade da Pessoa Humana", "Proporcionalidade"],
+      "violacao": [
+        "Devido Processo Legal",
+        "Liberdade de Expressão",
+        "Razoabilidade",
+        "Dignidade da Pessoa Humana",
+        "Proporcionalidade"
+      ],
       "year": 2025
     },
     {
       "data": "08/04/2025",
       "acao": "Alteração unilateral de voto no julgamento de Ramagem no STF após publicação oficial",
-      "violacao": ["Imutabilidade das Decisões Judiciais", "Colegialidade Judicial", "Segurança Jurídica", "Devido Processo Legal", "Separação dos Poderes", "Publicidade dos Atos Processuais"],
+      "violacao": [
+        "Imutabilidade das Decisões Judiciais",
+        "Colegialidade Judicial",
+        "Segurança Jurídica",
+        "Devido Processo Legal",
+        "Separação dos Poderes",
+        "Publicidade dos Atos Processuais"
+      ],
       "year": 2025
     },
     {
       "data": "22/04/2025",
       "acao": "Moraes, relator do caso, vota pelo recebimento da denúncia da PGR e torna Filipe Martins réu na 1º Turma do STF",
-      "violacao": ["Liberdade de Expressão", "Devido Processo Legal", "Proporcionalidade", "Não Censura Prévia", "Dignidade da Pessoa Humana", "Presunção de Inocência"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Não Censura Prévia",
+        "Dignidade da Pessoa Humana",
+        "Presunção de Inocência"
+      ],
+      "year": 2025
+    },
+    {
+      "data": "23/04/2025",
+      "acao": "Moraes cita Jair Bolsonaro na UTI",
+      "violacao": [
+        "Razoabilidade",
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Dignidade da Pessoa Humana",
+        "Moralidade"
+      ],
       "year": 2025
     },
     {
       "data": "06/06/2025",
       "acao": "Moraes nega recurso de Débora Rodrigues e mantém condenação de 14 anos",
-      "violacao": ["Liberdade de Expressão", "Dignidade da Pessoa Humana", "Razoabilidade", "Proporcionalidade", "Devido Processo Legal"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Dignidade da Pessoa Humana",
+        "Razoabilidade",
+        "Proporcionalidade",
+        "Devido Processo Legal"
+      ],
       "year": 2025
     },
     {
       "data": "04/07/2025",
       "acao": "Moraes suspende, em decisão monocrática, decreto legislativo que barravam aumento do IOF",
-      "violacao": ["Separação de Poderes", "Colegialidade Judiciária", "Devido Processo Legal", "Segurança Jurídica"],
+      "violacao": [
+        "Separação de Poderes",
+        "Colegialidade Judiciária",
+        "Devido Processo Legal",
+        "Segurança Jurídica"
+      ],
       "year": 2025
     },
     {
       "data": "16/07/2025",
       "acao": "Moraes cassa a palavra de advogado durante uma audiência",
-      "violacao": ["Liberdade de Expressão", "Devido Processo Legal", "Proporcionalidade", "Não Censura Prévia", "Contraditório e Ampla Defesa"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Não Censura Prévia",
+        "Contraditório e Ampla Defesa"
+      ],
       "year": 2025
     },
     {
       "data": "16/07/2025",
       "acao": "Restabelecimento do aumento do IOF por decisão monocrática",
-      "violacao": ["Separação de Poderes", "Segurança Jurídica", "Não Retroatividade"],
+      "violacao": [
+        "Separação de Poderes",
+        "Segurança Jurídica",
+        "Não Retroatividade"
+      ],
       "year": 2025
     },
     {
       "data": "18/07/2025",
       "acao": "Moraes autoriza busca e apreensão e aplicação de tornozeleira eletrônica contra Jair Bolsonaro em inquérito que investiga atos de Eduardo Bolsonaro",
-      "violacao": ["Devido Processo Legal", "Liberdade de Expressão", "Imparcialidade Judicial", "Proporcionalidade", "Dignidade da Pessoa Humana"],
+      "violacao": [
+        "Devido Processo Legal",
+        "Liberdade de Expressão",
+        "Imparcialidade Judicial",
+        "Proporcionalidade",
+        "Dignidade da Pessoa Humana"
+      ],
       "year": 2025
     },
     {
       "data": "21/07/2025",
       "acao": "Moraes bloqueia bens, contas e Pix de Eduardo Bolsonaro e sua mulher nos EUA por incitar tarifaço de Trump",
-      "violacao": ["Devido Processo Legal", "Direito à Propriedade", "Proporcionalidade", "Imparcialidade Judicial", "Liberdade de Locomoção"],
+      "violacao": [
+        "Devido Processo Legal",
+        "Direito à Propriedade",
+        "Proporcionalidade",
+        "Imparcialidade Judicial",
+        "Liberdade de Locomoção"
+      ],
       "year": 2025
     },
     {
       "data": "21/07/2025",
       "acao": "Moraes intima defesa de Bolsonaro em 24h com ameaça de prisão por declaração à imprensa sobre tornozeleira",
-      "violacao": ["Liberdade de Expressão", "Devido Processo Legal", "Proporcionalidade", "Legalidade", "Imparcialidade Judicial", "Não Censura Prévia"],
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Proporcionalidade",
+        "Legalidade",
+        "Imparcialidade Judicial",
+        "Não Censura Prévia"
+      ],
       "year": 2025
     },
     {
       "data": "25/07/2025",
       "acao": "Moraes dá ordem para a retirada de parlamentares que montaram acampamento na Praça dos Três Poderes em Brasília e proíbe novos acampamentos",
-      "violacao": ["Liberdade de Associação", "Devido Processo Legal", "Liberdade de Expressão", "Separação de Poderes", "Proporcionalidade", "Legalidade"],
+      "violacao": [
+        "Liberdade de Associação",
+        "Devido Processo Legal",
+        "Liberdade de Expressão",
+        "Separação de Poderes",
+        "Proporcionalidade",
+        "Legalidade"
+      ],
       "year": 2025
     },
     {
       "data": "28/07/2025",
       "acao": "Moraes proíbe uso de farda por réus militares",
-      "violacao": ["Devido Processo Legal", "Dignidade da Pessoa Humana", "Publicidade dos Atos Processuais", "Duração Razoável do Processo"],
+      "violacao": [
+        "Devido Processo Legal",
+        "Dignidade da Pessoa Humana",
+        "Publicidade dos Atos Processuais",
+        "Duração Razoável do Processo"
+      ],
       "year": 2025
     },
     {
       "data": "30/07/2025",
       "acao": "Moraes faz gesto obsceno para torcedores em jogo do Corinthians contra Palmeiras pela Copa do Brasil, após ter sido sancionado pela Lei Magnitsky",
-      "violacao": ["Moralidade", "Impessoalidade", "Dignidade da Pessoa Humana"],
+      "violacao": [
+        "Moralidade",
+        "Impessoalidade",
+        "Dignidade da Pessoa Humana"
+      ],
+      "year": 2025
+    },
+    {
+      "data": "04/08/2025",
+      "acao": "Decretada prisão domiciliar de Bolsonaro por suposto descumprimento de medidas cautelares",
+      "violacao": [
+        "Liberdade de Expressão",
+        "Devido Processo Legal",
+        "Separação de Poderes",
+        "Proporcionalidade",
+        "Legalidade",
+        "Ampla Defesa"
+      ],
       "year": 2025
     }
   ]

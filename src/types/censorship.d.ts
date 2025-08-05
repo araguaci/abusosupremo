@@ -1,7 +1,7 @@
 export type CensorshipEvent = {
   date: string;
   description: string;
-  type: 'judicial' | 'midiática' | 'eleitoral';
+  type: 'judicial' | 'midiática' | 'eleitoral' | 'decoro'  | 'deoficio';
   target: 'conservadores' | 'jornalistas_de_direita' | 'bolsonaristas' | 'plataformas' | 'documentários' | 'mídia' | 'geral';
   title: string;
   year: number;

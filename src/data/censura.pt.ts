@@ -6,7 +6,7 @@ export const censorshipData: CensorshipData = {
   "events": {
   "2019": [
     {
-      "date": "Abril",
+      "date": "Abr",
       "description": "Abertura do Inquérito das Fake News pelo STF (Dias Toffoli, relator Alexandre de Moraes), visando 'ataques' a ministros; resultou em bloqueios iniciais de perfis conservadores no Twitter que criticavam o judiciário.",
       "type": "judicial",
       "target": "conservadores",
@@ -35,7 +35,7 @@ export const censorshipData: CensorshipData = {
       "source": "https://x.com/AlexandreFiles"
     },
     {
-      "date": "Abril",
+      "date": "Abr",
       "description": "Jornalista Allan dos Santos (Terça Livre) se autoexila nos EUA devido a perseguição; inclusão no inquérito.",
       "type": "judicial",
       "target": "jornalistas_de_direita",
@@ -51,7 +51,7 @@ export const censorshipData: CensorshipData = {
       "year": 2020
     },
     {
-      "date": "Agosto",
+      "date": "Ago",
       "description": "Remoção de artigo da Crusoé crítico à deputada Bia Kicis (juiz Hilmar Raposo Filho).",
       "type": "judicial",
       "target": "jornalistas_de_direita",
@@ -87,7 +87,7 @@ export const censorshipData: CensorshipData = {
   ],
   "2021": [
     {
-      "date": "Agosto",
+      "date": "Ago",
       "description": "Tribunal Superior Eleitoral (TSE), ministro Luis Felipe Salomão, contra a monetização de 11 canais conservadores apoiadores do presidente Jair Bolsonaro (Terça Livre, Folha Política, Jornal da Cidade Online, e outros) e um movimento político (Nas Ruas) somando 9,1 milhões de inscritos em seus canais.",
       "type": "judicial",
       "target": "bolsonaristas",
@@ -95,7 +95,7 @@ export const censorshipData: CensorshipData = {
       "year": 2021
     },
     {
-      "date": "Agosto",
+      "date": "Ago",
       "description": "Censura prévia a reportagem da RBS TV sobre corrupção (juíza Tatiana de Lorenzo); alvos: veículos conservadores.",
       "type": "judicial",
       "target": "mídia",
@@ -103,7 +103,7 @@ export const censorshipData: CensorshipData = {
       "year": 2021
     },
     {
-      "date": "Setembro",
+      "date": "Set",
       "description": "Censura a documentário crítico à Lava Jato (juiz na Paraíba); impacto em narrativas de direita.",
       "type": "judicial",
       "target": "documentários",
@@ -130,7 +130,7 @@ export const censorshipData: CensorshipData = {
       "year": 2022
     },
     {
-      "date": "Setembro",
+      "date": "Set",
       "description": "TSE censura documentário da Brasil Paralelo sobre atentado a Bolsonaro; proibição prévia; censura a outdoors eleitorais críticos em MT e RJ.",
       "type": "eleitoral",
       "target": "documentários",
@@ -212,7 +212,7 @@ export const censorshipData: CensorshipData = {
       "year": 2023
     },
     {
-      "date": "Setembro",
+      "date": "Set",
       "description": "Censura a reportagem do Intercept sobre assassinato de Mãe Bernadete (juiz George Alves de Assis); vazamentos revelam investigações irregulares contra bolsonaristas via TSE/STF.",
       "type": "judicial",
       "target": "mídia",
@@ -220,7 +220,7 @@ export const censorshipData: CensorshipData = {
       "year": 2023
     },
     {
-      "date": "August",
+      "date": "Aug",
       "description": "Moraes multou Monark em R$ 300 mil e determinou o bloqueio de seus perfis nas redes sociais por descumprimento de ordens judiciais.",
       "type": "judicial",
       "target": "plataformas",
@@ -231,7 +231,7 @@ export const censorshipData: CensorshipData = {
       "date": "May",
       "description": "Moraes determinou remoção de mensagens no Telegram contra PL das Fake News, com ameaça de suspensão.",
       "type": "judicial",
-      "target": "plataforma",
+      "target": "plataformas",
       "title": "Remoção de Mensagens no Telegram",
       "year": 2023
     },
@@ -262,7 +262,7 @@ export const censorshipData: CensorshipData = {
       "year": 2024
     },
     {
-      "date": "Abril",
+      "date": "Abr",
       "description": "Classificação do Brasil como regime censor por Surfshark.",
       "type": "midiática",
       "target": "geral",
@@ -278,7 +278,7 @@ export const censorshipData: CensorshipData = {
       "year": 2024
     },
     {
-      "date": "Agosto",
+      "date": "Ago",
       "description": "Suspensão do X por 40 dias (Moraes); exigência de remoção de conteúdos conservadores.",
       "type": "judicial",
       "target": "plataformas",
@@ -286,7 +286,7 @@ export const censorshipData: CensorshipData = {
       "year": 2024
     },
     {
-      "date": "Setembro",
+      "date": "Set",
       "description": "Censura a paródia de 'Cálice' por Tiago Pavinatto (juíza Admara Schneider); multa à Meta; lançamento da Revista Timeline (Lacombe e Santos) nos EUA para evitar censura.",
       "type": "judicial",
       "target": "conservadores",
@@ -294,7 +294,7 @@ export const censorshipData: CensorshipData = {
       "year": 2024
     },
     {
-      "date": "Abril",
+      "date": "Abr",
       "description": "X informou ter bloqueado 226 contas por ordem do STF e TSE, incluindo lives permitidas apesar de suspensões.",
       "type": "judicial",
       "target": "plataformas",
@@ -310,7 +310,7 @@ export const censorshipData: CensorshipData = {
       "year": 2024
     },
     {
-      "date": "August",
+      "date": "Aug",
       "description": "Justiça Eleitoral bloqueou perfis de Pablo Marçal nas redes sociais.",
       "type": "eleitoral",
       "target": "plataformas",
@@ -318,7 +318,7 @@ export const censorshipData: CensorshipData = {
       "year": 2024
     },
     {
-      "date": "August",
+      "date": "Aug",
       "description": "Moraes determinou bloqueio de rede social e R$ 50 milhões de Marcos Do Val.",
       "type": "judicial",
       "target": "plataformas",
@@ -326,7 +326,7 @@ export const censorshipData: CensorshipData = {
       "year": 2024
     },
     {
-      "date": "August",
+      "date": "Aug",
       "description": "Moraes ordenou a suspensão do X no Brasil por não cumprimento de nomeação de representante legal.",
       "type": "judicial",
       "target": "plataformas",
@@ -334,7 +334,7 @@ export const censorshipData: CensorshipData = {
       "year": 2024
     },
     {
-      "date": "September",
+      "date": "Set",
       "description": "X bloqueou perfis específicos para retornar ao Brasil após suspensão.",
       "type": "judicial",
       "target": "plataformas",
@@ -342,7 +342,7 @@ export const censorshipData: CensorshipData = {
       "year": 2024
     }, 
     {
-      "date": "September",
+      "date": "Set",
       "description": "O Supremo Tribunal Federal (STF) impediu veículos da imprensa, como o UOL, de auditar o sistema de distribuição de processos do tribunal. Inicialmente, após quatro anos de pedidos baseados na Lei de Acesso à Informação (LAI)",
       "type": "judicial",
       "target": "mídia",
@@ -351,7 +351,7 @@ export const censorshipData: CensorshipData = {
       "source": "https://noticias.uol.com.br/politica/ultimas-noticias/2024/09/24/stf-roberto-barroso-cancela-visita-uol-codigo-fonte-distribuicao-processos.htm?cmpid=copiaecola"
     },
     {
-      "date": "November",
+      "date": "Nov",
       "description": "STF julgou constitucionalidade de remoção de conteúdos sem ordem judicial em casos de ofensas.",
       "type": "judicial",
       "target": "plataformas",
@@ -415,6 +415,14 @@ export const censorshipData: CensorshipData = {
       "type": "judicial",
       "target": "plataformas",
       "title": "Bloqueio de conta na Rumble",
+      "year": 2025
+    },
+    {
+      "date": "Ago",
+      "description": "Prisão domiciliar decretada para Bolsonaro devido ao alegado descumprimento de medidas cautelares",
+      "type": "judicial",
+      "target": "bolsonaristas",
+      "title": "Prisão domiciliar decretada para Bolsonaro",
       "year": 2025
     },
     {
