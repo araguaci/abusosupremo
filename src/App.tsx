@@ -17,7 +17,7 @@ import CensuradosPage from './pages/CensuradosPage';
 import GalleryPage from './pages/GalleryPage';
 import IeepaPage from './pages/IeepaPage';
 import DossiePage from './pages/DossiePage'; // Import the new DossiePage
-import HistoryOfCensorship from './pages/HistoryOfCensorship';
+import UsaidTseTimelinePage from './pages/UsaidTseTimelinePage'; // Import the new DossiePage
 
 function App() {
   return (
