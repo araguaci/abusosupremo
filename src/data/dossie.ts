@@ -960,6 +960,20 @@ export const dossieData: DossieData = {
         "Ampla Defesa"
       ],
       "year": 2025
+    },    
+    {
+      "data": "2025/08/04",
+      "acao": "Bloqueio das contas bancárias do marido da deputada exilada Carla Zambelli, Antônio Aginaldo de Oliveira, durante investigação contra a parlamentar",
+      "violacao": [
+        "Liberdade de Expressão",
+        "Presunção de Inocência",
+        "Individualização das Penas",
+        "Proporcionalidade",
+        "Legalidade",
+        "Ampla Defesa",
+        "Razoabilidade"
+      ],
+      "year": 2025
     },
     {
       "data": "2025/08/04",
